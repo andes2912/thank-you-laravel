@@ -62,3 +62,4 @@ Signed,
 * Leonardo Teixeira ([@LeonardoTeixeira](https://github.com/LeonardoTeixeira)), Software Engineer, Brazil
 * Abdullah Hejazi([@Abdullah-Hejazi](https://github.com/Abdullah-Hejazi)), Full Stack Web Developer, Cairo, Egypt
 * Benjamin Temitope ([@benjamintemitope](https://github.com/benjamintemitope)). Web Developer, Nigeria
+* Andri Desmana ([@andes2912](https://github.com/andes2912)). Web Developer, Indonesia
